@@ -1,0 +1,443 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /*body*/
+    .intro, .about, .apply, .news {
+    margin-top: 90px;
+    margin-bottom: 90px;}
+	/*header start*/
+	header {
+    padding-left: 0px;}
+    .menu ul {
+     padding-right: 0px;}
+    .menu ul li {
+    margin-right: -120px;
+    text-align: right;}
+   .menu ul li:hover a{
+    background-color: transparent;
+    color:#43cb83!important;}
+
+    .i_text h2, .ab_text h2 {
+    font-size: 30px;}
+
+    .b_e {
+    margin-top: 8px;}
+    .btn-2 {
+    margin-bottom: 40px;
+    height: 50px;
+    width: 195px;}
+    /*info start*/
+    .i_text {
+    padding-left: 0px;
+    text-align:center;}
+    .i_text h1 {
+    font-size: 27px;}
+    .i_text p {
+    margin-bottom: 20px;}
+    .btn2 {
+    height: 35px;
+    width: 155px;}
+    /*feature*/
+    .f_m{
+    margin-right: 0px;
+    margin-left: 0px;}
+    .c_icon {
+    padding-top: 10px;
+    font-size: 50px;}
+    .overlay {
+    left: -105%;}
+    /*about start*/
+    .video {
+    padding-left: 0px;
+    margin-top: 00px;
+    margin-bottom: 70px;}
+    .vi-1 {
+    margin-left: 0px;
+    margin-bottom: 0px;
+    width: 280px;
+    height: 280px;}
+    .ab_text{
+        text-align: center;}
+
+    /*apply start*/
+    .apply{
+        margin-bottom: 200px;
+    }
+    .apply-text{
+        text-align: center;
+    }
+
+    .form_text {
+    padding-top: 0px;}
+    .form-col {
+    margin-top: 220px;
+    left: 0%;}
+   
+    /*news start*/
+    .news {
+    text-align: center;
+    margin-top: 480px;}
+    .bt-news {
+    width: 170px;
+    height: 40px;}
+    .p-b {
+    padding-top: 5px;
+    padding-bottom: 5px;}
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	header {
+    padding-left: 0px;}
+    .menu ul {
+    margin-right: 0px;
+    padding-right: 0px;}
+    .menu ul li{
+    padding-right: 0px;
+    text-align: right;}
+    .menu ul li:hover a{
+    background-color: transparent;
+    color:#43cb83!important;}
+    .b_e {
+    margin-top: 8px;
+    width: 110px;}
+    .i_text {
+    padding-left: 30px;
+    padding-top: 35px;}
+    .women {
+    margin-top: 0px;}
+    .book{
+    margin-top: 88px;}
+     .i_text h2, .ab_text h2 {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 0 0;
+    font-size: 30px;}
+    .i_text p {
+    margin-bottom: 20px;
+    font-size: 16px;}
+     .i_text h1 {
+    font-size: 27px;}
+     .btn-2 {
+    height: 40px;
+    width: 159px;
+    font-size: 16px;}
+    /*feature*/
+    .f_m{
+    padding: 20px;}
+    .c_icon {
+    padding-top: 10px;
+    font-size: 50px;}
+    .overlay {
+    left: -150%;}
+     /*about start*/
+     .about {
+    text-align: center;}
+    .vi-1 {
+    margin-left: 0px;
+    margin-bottom: 50px;
+    width: 300px;
+    height: 300px;}
+
+    .video {
+    padding-left: 0px;
+    margin: 0px 0px;}
+    
+     /*news start*/
+    .news{
+        text-align: center;}
+    .p-b {
+    padding-top: 0px;
+    padding-bottom: 5px;}
+    .bt-news {
+    width: 190px;
+    height: 45px;}
+    /*apply start*/
+    .apply-img img {
+    padding-top: 74px;
+    width: 105px;}
+    .form-col {
+    right: -6%;
+    top: -20%;}
+    .form_text {
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 46px;}
+    .form_text h2 {
+    font-size: 35px;}
+    .inline {
+    margin-bottom: 0px;}
+    .color {
+    margin-bottom: 0px;}
+    /*contact start*/
+    .col2-text-m{
+        margin-top: 30px;
+    }
+     /*footer start*/
+    .footer-text {
+    margin-top: 15px;}
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+	header {
+    padding-left: 12px;}
+    .menu ul {
+     padding-right: 0px;}
+    .menu ul li {
+    padding-left: 0px;
+    margin-right: -123px;
+    text-align: right;}
+    .menu ul li:hover a{
+        background-color: transparent;
+        color:#43cb83!important;
+        border-bottom: none;}
+    .b_e {
+    margin-top: 5px;
+    margin-left: 566px;
+    width: 110px;}
+    
+   .i_text {
+    padding-right: 5px;
+    padding-top: 0px;}
+    .women {
+    margin-top: 35px;}
+    .book{
+    margin-top: 88px;
+    width: 180px;}
+     .i_text h1 {
+    font-size: 27px;}
+     .i_text p {
+    margin-bottom: 20px;}
+     .btn2 {
+    height: 35px;
+    width: 155px;}
+    /*feature start*/
+    .overlay {
+    left: -110%;}
+    /*news start*/
+    .news{
+        text-align: center;}
+    .bt-news {
+    width: 190px;
+    height: 45px;}
+     /*about start*/
+      .video {
+    margin-top: 0px;
+    margin-bottom: 36px;}
+    .vi-1 {
+    margin-left: 0px;
+    width: 280px;
+    height: 280px;}
+    .ab_text h2 {
+    font-size: 32px;}
+    /*apply start*/
+    .apply-img img {
+    padding-top: 40px;}
+    .form-col {
+    top: -11%;
+    right: -3%;}
+    .form_text {
+    padding-top: 0px;
+    padding-left: 11px;}
+    .inline {
+    margin-bottom: 0px;}
+    .color {
+    margin-bottom: 0px;}
+    /*contact start*/
+    .col2-text-m{
+        margin-top: 35px;}
+    /*footer start*/
+    .footer-text {
+    margin-top: 15px;}
+
+
+
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px){
+	/*header*/
+     header {
+        padding-left: 10px;
+     }
+     .n_b {
+    padding-right: 35px;
+    margin-left: 0px;}
+     .menu ul {
+     margin-right: 0px;}
+    /*intro start*/
+
+    .women {
+    width: 375px;}
+    .i_text {
+    padding-top: 0px;}
+    .i_text h1 {
+    font-size: 29px;}
+    .i_text p {
+    margin-bottom: 25px;
+    font-size: 16px;}
+    .book {
+    width: 222px;}
+    .btn2 {
+    height: 40px;
+    width: 140px;}
+    /*about start*/
+    .img-2 img {
+    width: 47%;}
+    .img {
+    top: 28%;
+    left: 60%;}
+    .p_img-2 {
+    top: -10%;
+    right: 57%;}
+
+    .video {
+        margin-top: 163px;
+    }
+    .vi-1 {
+     margin-left: 135px;
+    width: 240px;
+    height: 240px;}
+    .ab_text h2 {
+    font-size: 32px;}
+    /*apply start*/
+    .form_text {
+    padding-top: 20px;}
+   .form-col {
+    top: -20%;
+    left: 49%;}
+    .apply-img2 {
+    margin-left: 43px;}
+
+}
+/* custom devices (1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    /*header*/
+    header {}
+    /*banner start*/
+    .women{
+    width: 375px;}
+    .i_text {
+    padding-left: 45px;
+    padding-top: 50px;}
+    .book{
+    margin-top: 88px;
+    width: 180px;}
+     .i_text h1 {
+    font-size: 32px;}
+     .i_text p {
+    margin-bottom: 20px;}
+     .btn2 {
+    height: 35px;
+    width: 140px;}
+}
+
+/* custom devices (1400px and up)*/
+@media (min-width: 1400px) and (max-width: 1599.98px) {
+	/*header*/
+	header {}
+    /*banner start*/
+    .women {
+        margin-top: 17px;
+        margin-right: 90px;}
+    .i_text {
+    padding-left: 40px;
+    padding-top: 75px;}
+    .i_text h1 {
+    font-size: 40px;}
+    .i_text p {
+    margin-bottom: 25px;
+    font-size: 16px;
+    word-spacing: 4px;
+    letter-spacing: 1px;}
+    .btn2 {
+    height: 45px;
+    width: 170px;}
+   /*about start*/
+   .p_img-2 {
+   top: -53%;
+    right: 59%;
+}
+   .video {
+    margin-top: 0px;}
+  .vi-1 {
+    margin-left: 120px;
+    width: 420px;
+    height: 420px;}
+    .apply-img2 {
+    margin-left: 56px;}
+   
+}
+/* custom devices (1600px and up)*/
+@media (min-width: 1600px) and (max-width: 1799.98px) {
+     .women{
+    margin-top: 15px;
+    width: 100%;}
+    .img {
+    top: 20%;
+    left: 65%;}
+    .i_text {
+    padding-left: 90px;
+    padding-right: 0px;}
+    .book {
+    margin-top: 54px;
+    width: 100%;}
+    /*about start*/
+    .p_img-2 {
+    top: -51%;
+    right: 59%;}
+    .video {
+    margin-top: 39px;}
+    .vi-1 {
+    margin-left: 94px;
+    width: 440px;
+    height: 440px;}
+}
+/* custom devices (1700px and up)*/
+@media (min-width: 1700px) and (max-width: 1899.98px) {
+    /*banner start*/
+    /*banner start*/
+    .women{
+     margin-top: 18px;
+    width: 100%;}
+    .i_text {
+    padding-left: 170px;
+    padding-right: 226px;}
+    .book {
+    margin-top: 61px;}
+    /*about start*/
+    .p_img-2 {
+    top: -292px;
+    right: 54%;}
+    .video {
+    margin-top: 39px;}
+    .vi-1 {
+    margin-left: 85px;
+    width: 430px;
+    height: 430px;}
+}
+/* Extra extra large devices (Extra extra large desktops, 1900px and up)*/
+@media (min-width: 1900px) {
+    /*banner start*/
+     .women{
+     margin-top: 27px;
+    width: 100%;}
+    .i_text {
+    padding-top: 103px;
+    padding-left: 108px;
+    padding-right: 129px;}
+    .book {
+    margin-top: 71px;}
+    /*about start*/
+   .p_img-2 {
+    top: -44%;
+    right: 53%;}
+    .video {
+    margin-top: 39px;}
+    .vi-1 {
+    margin-left: 9px;
+    width: 485px;
+    height: 485px;
+}
+}
